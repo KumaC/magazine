@@ -53,7 +53,7 @@ main{
 #picture1{
     width:641px;
     height:301px;
-    background-image:url(../image/task.6/princessIce.png);
+    background-image:url(image/princessIce.png);
     background-repeat:repeat-x;
     float:left;
     margin-bottom:30px; 
@@ -255,7 +255,7 @@ main{
     height:257px;
     float:left;
     margin-left:19px;
-    background-image:url(../image/task.6/fengling.jpg);
+    background-image:url(image/fengling.jpg);
 }
 #picture2 .bar{
     width:458px;
